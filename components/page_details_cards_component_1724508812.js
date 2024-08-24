@@ -3,7 +3,7 @@ INSTRUCTION: Summary: Contains a section with three cards with black background 
 -->
 
 <template>
-  <section id="page-details-cards-component" class="py-8 bg-gradient-to-br from-pink-400 to-purple-600">
+  <section id="page-details-cards-component" style="min-height: 430px" class="py-8 bg-gradient-to-br from-pink-400 to-purple-600">
     <h2 id="details-title" class="text-2xl font-semibold mb-8 pl-4 text-white">Details</h2>
     <ul id="details-list" class="grid gap-6 min-[480px]:grid-cols-3 text-sm px-4">
       <li id="project-length" class="px-6 py-6 rounded-lg bg-white bg-opacity-20 backdrop-filter backdrop-blur-lg shadow-lg hover:bg-opacity-30 transition duration-300">
