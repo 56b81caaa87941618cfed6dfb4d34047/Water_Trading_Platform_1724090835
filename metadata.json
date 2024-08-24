@@ -4,5 +4,6 @@
     "project_description": "water market place",
     "creation_time": "2024-08-19 18:07:15.223569",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "stellar"
+    "selected_starter_template_id": "stellar",
+    "frontend_theme_prompt": "The image features a vibrant, surreal landscape with a dominant color scheme of pink and purple hues, complemented by dark shadows and glowing highlights. The style is fantastical and otherworldly, showcasing a large planet and two smaller moons in a starry sky above an alien terrain."
 }
