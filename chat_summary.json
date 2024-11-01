@@ -12,5 +12,11 @@
         "content": "Add a hadoken button",
         "timestamp": "01112024231043",
         "message_id": "guest01112024231042"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I will add a hadoken button for you.",
+        "timestamp": "01112024231043",
+        "message_id": "guest01112024231042"
     }
 ]
