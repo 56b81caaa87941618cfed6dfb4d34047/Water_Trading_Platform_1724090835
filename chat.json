@@ -6,5 +6,14 @@
         "timestamp": "1724090838",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "Add a hadoken button",
+        "message_id": "guest01112024231042",
+        "timestamp": "01112024231043",
+        "component_file_name": "page_details_cards_component_1724508812",
+        "div_id": "",
+        "div_action": ""
     }
 ]
